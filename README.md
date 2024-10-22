@@ -2,11 +2,7 @@
 
 ## UoI-CSE-MYY505 lab02
 
-## First-Name Last-Name
-
-**TODO - Update your name in this readme. Leave 1 space after the ## to preserve the text formating (markdown)**
-
-
+## Nikolaos Tselikas-Kourtidis
 
 ## Problem statement:
 Given an array of 32-bit words (address in a0, size, number of elements, in a1) and a search value (in a2), find (and store in s0) the *address* of the *last* occurence of the search value in the array, or 0 (null ptr), if not found. The array size (a1) may be 0. Your code should handle that and respond with a 0 in s0, meaning "not found".
